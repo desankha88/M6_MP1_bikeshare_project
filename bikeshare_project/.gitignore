@@ -1,0 +1,4 @@
+**/__pycache__/
+**/bikeshare_model.egg-info/
+**/dist/
+**/DockerFiles/
